@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "898258665586",
+    "project_id": "flutter-deg",
+    "storage_bucket": "flutter-deg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898258665586:android:24e8d03a74fe2d79e442eb",
+        "android_client_info": {
+          "package_name": "com.example.point_ar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898258665586-fjpd6qck7b88qam7m6rgv42d9kc7929k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtNmrDfiZWgPspAmHEI9xVTtMWjJI9Qg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898258665586-fjpd6qck7b88qam7m6rgv42d9kc7929k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
